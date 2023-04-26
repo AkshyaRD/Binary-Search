@@ -4,8 +4,7 @@ int BinarySearch(int[],int,int);
 
 int main()
 {
-	int arr[5]={32,5,7,56,78};
-	//Bubblesort(arr,5);
+	int arr[7]={3,4,5,6,7,8,9};
 
 	int ele;
 	printf("Enter element to be searched\n");
