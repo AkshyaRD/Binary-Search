@@ -3,7 +3,10 @@
 Binary Search is defined as a searching algorithm used in a sorted array by repeatedly dividing the search interval in half.  
 The idea of binary search is to use the information that the array is sorted and reduce the time complexity.
 
-**Binary search can be implemented only on a sorted list of items. If the elements are not sorted already, we need to sort them first.**
+**Binary search can be implemented only on a sorted list of items. If the elements are not sorted already, we need to sort them first.**  
+
+![Binary-Search-GeeksforGeeks](https://user-images.githubusercontent.com/91966613/234466509-2d3ac2a5-473f-4f2a-8326-19123b8f55ea.gif)
+
 
 1. The array in which searching is to be performed is:  
 ![image](https://user-images.githubusercontent.com/91966613/234463742-54dd5273-7cf1-49ed-af15-fc48a7332006.png)  
